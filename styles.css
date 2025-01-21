@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 :root {
-    /* Light Theme Colors */
-    --primary-color: #3498db; /* Bright Blue */
-    --secondary-color: #e74c3c; /* Red */
-    --background-color: #ecf0f1; /* Light Grey */
-    --text-color: #2c3e50; /* Darker Text */
+    /* Updated Light Theme Colors */
+    --primary-color: #1abc9c; /* Soft Teal */
+    --secondary-color: #f39c12; /* Muted Gold */
+    --background-color: #f7f7f7; /* Off-White */
+    --text-color: #34495e; /* Dark Slate */
 }
 
 [data-theme="dark"] {
-    /* Dark Theme Colors */
+    /* Dark Theme Colors (unchanged) */
     --primary-color: #1abc9c; /* Teal */
     --secondary-color: #f39c12; /* Yellow */
     --background-color: #2c3e50; /* Dark Grey */
