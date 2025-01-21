@@ -13,7 +13,11 @@
     --background-color: #121212;
     --text-color: #e0e0e0;
 }
+    .note {
+        background-color: #801496;
+        color: #ccc;
 
+    }
 * {
     margin: 0;
     padding: 0;
